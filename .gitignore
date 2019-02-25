@@ -3,6 +3,7 @@
 *.pdb
 *.png
 *.jpg
+*.jpeg
 *.pickle
 *.ini
 *.pdf
