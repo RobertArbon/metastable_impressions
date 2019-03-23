@@ -1,13 +1,13 @@
-baseURL = "http://example.com/"
+baseURL = "https://robertarbon.github.io/metastable_impressions/"
 languageCode = "en-us"
-title = "Minimal"
+title = "Metastable Impressions"
 theme = "minimal"
 disqusShortname = "username" # delete this to disable disqus comments
 googleAnalytics = ""
 
 [params]
-    author = "Calin Tataru"
-    description = "Personal blog theme powered by Hugo"
+    author = "Robert Arbon"
+    description = "Proteins || Markov Models || Sonification || Style Transfer"
     githubUsername = "#"
     accent = "red"
     showBorder = true
@@ -22,15 +22,21 @@ googleAnalytics = ""
     name = "Home"
     weight = 1
 
+#[[menu.main]]
+#    url = "/post/"
+#    name = "Posts"
+#    weight = 2
+#
 [[menu.main]]
-    url = "/post/"
-    name = "Posts"
+    url = "/audio/"
+    name = "Audio"
     weight = 2
 
 [[menu.main]]
-    url = "/project/"
-    name = "Projects"
+    url = "/style_transfer"
+    name = "Style Transfer"
     weight = 3
+
 
 # Social icons to be shown on the right-hand side of the navigation bar
 # The "name" field should match the name of the icon to be used
@@ -50,13 +56,13 @@ googleAnalytics = ""
     url = "https://twitter.com/username/"
     name = "twitter"
     weight = 3
+#
+#[menu.icon]]
+#   url = "https://www.linkedin.com/in/username/"
+#   name = "linkedin"
+#   weight = 4
 
-[[menu.icon]]
-    url = "https://www.linkedin.com/in/username/"
-    name = "linkedin"
-    weight = 4
-
-[[menu.icon]]
-    url = "https://www.stackoverflow.com/username/"
-    name = "stack-overflow"
-    weight = 5
+#[menu.icon]]
+#   url = "https://www.stackoverflow.com/username/"
+#   name = "stack-overflow"
+#   weight = 5

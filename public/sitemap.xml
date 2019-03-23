@@ -3,10 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://robertarbon.github.io/metastable_impressions/project/project1/</loc>
-  </url>
-  
-  <url>
     <loc>https://robertarbon.github.io/metastable_impressions/project/project2/</loc>
   </url>
   
@@ -16,6 +12,10 @@
   
   <url>
     <loc>https://robertarbon.github.io/metastable_impressions/project/project4/</loc>
+  </url>
+  
+  <url>
+    <loc>https://robertarbon.github.io/metastable_impressions/style_transfer/</loc>
   </url>
   
   <url>
