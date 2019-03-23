@@ -12,15 +12,6 @@
     
     
     <item>
-      <title>Project 1</title>
-      <link>https://robertarbon.github.io/metastable_impressions/project/project1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://robertarbon.github.io/metastable_impressions/project/project1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Project 2</title>
       <link>https://robertarbon.github.io/metastable_impressions/project/project2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -45,6 +36,16 @@
       
       <guid>https://robertarbon.github.io/metastable_impressions/project/project4/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Style Transfer</title>
+      <link>https://robertarbon.github.io/metastable_impressions/style_transfer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://robertarbon.github.io/metastable_impressions/style_transfer/</guid>
+      <description>Overview The goals of this element of the project are two fold:
+ To explore the use of Neural Style Transfer to apply arbitrary styles to rendering of proteins. To use style transfer to make a visual representation of the intellectual history of proteins and the way we think, visualise and study them.  The final output of this element will be an animation of the protein rendered in the style of various art works linked, either directly or by temporal association, with milestones the science of proteins.</description>
     </item>
     
     <item>
