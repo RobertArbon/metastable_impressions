@@ -1,175 +1,175 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Minimal</title>
-    <link>http://example.com/tags/</link>
-    <description>Recent content in Tags on Minimal</description>
+    <title>Tags on Metastable Impressions</title>
+    <link>https://robertarbon.github.io/metastable_impressions/tags/</link>
+    <description>Recent content in Tags on Metastable Impressions</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://robertarbon.github.io/metastable_impressions/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Bootstrap</title>
-      <link>http://example.com/tags/bootstrap/</link>
+      <link>https://robertarbon.github.io/metastable_impressions/tags/bootstrap/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/bootstrap/</guid>
+      <guid>https://robertarbon.github.io/metastable_impressions/tags/bootstrap/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Css</title>
-      <link>http://example.com/tags/css/</link>
+      <link>https://robertarbon.github.io/metastable_impressions/tags/css/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/css/</guid>
+      <guid>https://robertarbon.github.io/metastable_impressions/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Development</title>
-      <link>http://example.com/tags/development/</link>
+      <link>https://robertarbon.github.io/metastable_impressions/tags/development/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/development/</guid>
+      <guid>https://robertarbon.github.io/metastable_impressions/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Go</title>
-      <link>http://example.com/tags/go/</link>
+      <link>https://robertarbon.github.io/metastable_impressions/tags/go/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/go/</guid>
+      <guid>https://robertarbon.github.io/metastable_impressions/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Golang</title>
-      <link>http://example.com/tags/golang/</link>
+      <link>https://robertarbon.github.io/metastable_impressions/tags/golang/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/golang/</guid>
+      <guid>https://robertarbon.github.io/metastable_impressions/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Highlight Js</title>
-      <link>http://example.com/tags/highlight-js/</link>
+      <link>https://robertarbon.github.io/metastable_impressions/tags/highlight-js/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/highlight-js/</guid>
+      <guid>https://robertarbon.github.io/metastable_impressions/tags/highlight-js/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Html</title>
-      <link>http://example.com/tags/html/</link>
+      <link>https://robertarbon.github.io/metastable_impressions/tags/html/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/html/</guid>
+      <guid>https://robertarbon.github.io/metastable_impressions/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo</title>
-      <link>http://example.com/tags/hugo/</link>
+      <link>https://robertarbon.github.io/metastable_impressions/tags/hugo/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/hugo/</guid>
+      <guid>https://robertarbon.github.io/metastable_impressions/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jekyll</title>
-      <link>http://example.com/tags/jekyll/</link>
+      <link>https://robertarbon.github.io/metastable_impressions/tags/jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/jekyll/</guid>
+      <guid>https://robertarbon.github.io/metastable_impressions/tags/jekyll/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Js</title>
-      <link>http://example.com/tags/js/</link>
+      <link>https://robertarbon.github.io/metastable_impressions/tags/js/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/js/</guid>
+      <guid>https://robertarbon.github.io/metastable_impressions/tags/js/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Plot</title>
-      <link>http://example.com/tags/plot/</link>
+      <link>https://robertarbon.github.io/metastable_impressions/tags/plot/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>http://example.com/tags/plot/</guid>
+      <guid>https://robertarbon.github.io/metastable_impressions/tags/plot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Markdown</title>
-      <link>http://example.com/tags/r-markdown/</link>
+      <link>https://robertarbon.github.io/metastable_impressions/tags/r-markdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>http://example.com/tags/r-markdown/</guid>
+      <guid>https://robertarbon.github.io/metastable_impressions/tags/r-markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Regression</title>
-      <link>http://example.com/tags/regression/</link>
+      <link>https://robertarbon.github.io/metastable_impressions/tags/regression/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>http://example.com/tags/regression/</guid>
+      <guid>https://robertarbon.github.io/metastable_impressions/tags/regression/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Responsive</title>
-      <link>http://example.com/tags/responsive/</link>
+      <link>https://robertarbon.github.io/metastable_impressions/tags/responsive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/responsive/</guid>
+      <guid>https://robertarbon.github.io/metastable_impressions/tags/responsive/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Static Site Generator</title>
-      <link>http://example.com/tags/static-site-generator/</link>
+      <link>https://robertarbon.github.io/metastable_impressions/tags/static-site-generator/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/static-site-generator/</guid>
+      <guid>https://robertarbon.github.io/metastable_impressions/tags/static-site-generator/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Syntax Highlighting</title>
-      <link>http://example.com/tags/syntax-highlighting/</link>
+      <link>https://robertarbon.github.io/metastable_impressions/tags/syntax-highlighting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/syntax-highlighting/</guid>
+      <guid>https://robertarbon.github.io/metastable_impressions/tags/syntax-highlighting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Template</title>
-      <link>http://example.com/tags/template/</link>
+      <link>https://robertarbon.github.io/metastable_impressions/tags/template/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/template/</guid>
+      <guid>https://robertarbon.github.io/metastable_impressions/tags/template/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Themes</title>
-      <link>http://example.com/tags/themes/</link>
+      <link>https://robertarbon.github.io/metastable_impressions/tags/themes/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/themes/</guid>
+      <guid>https://robertarbon.github.io/metastable_impressions/tags/themes/</guid>
       <description></description>
     </item>
     
