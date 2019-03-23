@@ -1,0 +1,12 @@
+*.tga
+*.h5
+*.pdb
+*.png
+*.jpg
+*.jpeg
+*.pickle
+*.ini
+*.pdf
+*.ini
+*.DS_store
+*.ipynb_checkpoints
