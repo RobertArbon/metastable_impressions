@@ -10,3 +10,4 @@
 *.ini
 *.DS_store
 *.ipynb_checkpoints
+.Rproj.user
