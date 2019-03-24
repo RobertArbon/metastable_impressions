@@ -8,3 +8,6 @@
 *.ini
 *.pdf
 *.ini
+.DS_Store
+*.RData
+*.Rproj.user
