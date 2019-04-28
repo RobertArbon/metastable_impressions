@@ -1,0 +1,9 @@
+How to generate the visualizations: 
+
+1. download trajectory file from Chodera's [](https://osf.io/2h6p4/files/) and place in this directory. 
+2. Use the jupyter notebook to align the trajectory and save as pdb. 
+3. run `vmd -e default_visualisation.vmd`
+4. make a directory called `target_samples`
+5. open a `tk console` in VMD. 
+6. `source generate_target_images.vmd` in the console
+7. Wait! 
